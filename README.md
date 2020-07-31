@@ -10,7 +10,7 @@ _My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why_
 
 |    favourite food | favourite colour   |   pineaple on pizza?   |
 |:-----------------:|:------------------:|------------------------|
-| Suchi             |  Black             |   [x] Yes   |
+| Suchi             |  Black             |   &#9744;  Yes   |
 
 [<<Previous][previous] || Xander Van der Herten || [Next>>][next]
 
