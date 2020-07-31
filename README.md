@@ -8,9 +8,9 @@ _My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why_
 
 ## "Me, in one centence"
 
-|    favourite food | favourite colour   |   pineaple on pizza?        |
-|:-----------------:|:------------------:|:---------------------------:|
-| Suchi             |  Black             |   &#9745;  Yes  &#9744; no  |
+birthday   |    favourite food | favourite colour   |   pineaple on pizza?        |
+:---------:|:-----------------:|:------------------:|:---------------------------:|
+08/06/1993 | Suchi             |  Black             |   &#9745;  Yes  &#9744; no  |
 
 ### Hobbies
 - Being creative with drawing 
