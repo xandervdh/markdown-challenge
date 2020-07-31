@@ -8,9 +8,11 @@ _My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why_
 
 ## "Me, in one centance"
 
-|    favourite food | favourite colour   |   pineaple on pizza?   |
-|:-----------------:|:------------------:|------------------------|
-| Suchi             |  Black             |   &#9744;  Yes   |
+|    favourite food | favourite colour   |   pineaple on pizza?        |
+|:-----------------:|:------------------:|:---------------------------:|
+| Suchi             |  Black             |   &#9745;  Yes  &#9744; no  |
+
+
 
 [<<Previous][previous] || Xander Van der Herten || [Next>>][next]
 
