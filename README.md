@@ -1,4 +1,4 @@
-#Xander Van der Herten
+# Xander Van der Herten
 
 _My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why_ 
 
@@ -6,7 +6,4 @@ _My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why_
 
 ![](IMG_0061.JPG)
 
-##"Me, in one centance"
-
-Favoutie food | Fries       
-Favourite colour | Black 
+## "Me, in one centance"
