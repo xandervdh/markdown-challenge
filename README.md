@@ -6,7 +6,7 @@ _My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why_
 
 ![](IMG_0061.JPG)
 
-## "Me, in one centance"
+## "Me, in one centence"
 
 |    favourite food | favourite colour   |   pineaple on pizza?        |
 |:-----------------:|:------------------:|:---------------------------:|
@@ -25,6 +25,19 @@ If I don't know the answer I will help to look for a solution.
 Also if you need someone to talk to I'm here, I am a good listener ;)
 
 ##### A funny story
+A couple years ago I went on a ski trip with my student club.
+
+One day the apre-ski was going up the mountain with jenever in our backpacks and go sit down and listen to music and drink jenever.
+When it was time to go I was so drunk that they took my skis and made me walk to the lift to go down. But because I was drunk I started walking down the mountain
+eventualy taking steps of more than 2 meter because it was a black slope.
+
+Eventually I blacked out after I started rolling down the mountain.
+Then afterwards I heard stories that I was skiing down the mountain without skis and when we were in the village that there where to guys
+laughing at me who eventually helped me go through the village to the bus stop.
+Just imagine me hanging between two big dudes XD
+
+###### TL;DR
+When I was on a ski trip at one point I was skiing down the mountain without skis.
 
 
 [<<Previous][previous] || Xander Van der Herten || [Next>>][next]
