@@ -6,17 +6,17 @@ _My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why_
 
 ![](IMG_0061.JPG)
 
-## "Me, in one centence"
+## "Me, in one sentence"
 
-birthday   |    favourite food | favourite colour   |   pineaple on pizza?        |
+Birthday   |    Favourite food | Favourite colour   |   Pineaple on pizza?        |
 :---------:|:-----------------:|:------------------:|:---------------------------:|
 08/06/1993 | Sushi             |  Black             |   &#9745;  Yes  &#9744; no  |
 
 ### Hobbies
 - Being creative with drawing 
-- being creative on the computer for example with photoshop
-- watching movies, series
-- some djing
+- Being creative on the computer for example with photoshop
+- Watching movies, series
+- Some djing
 
 #### You can always count on me when
 If you have trouble with some coding, just ask me and if I know an answer I will help.
