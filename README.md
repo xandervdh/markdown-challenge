@@ -16,7 +16,7 @@ Birthday   |    Favourite food | Favourite colour   |   Pineaple on pizza?      
 - Being creative with drawing 
 - Being creative on the computer for example with photoshop
 - Watching movies, series
-- Some djing
+- Seome djing
 
 #### You can always count on me when
 If you have trouble with some coding, just ask me and if I know an answer I will help.
